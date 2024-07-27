@@ -12,3 +12,7 @@ Two datasets containing various chemical properties of red and white variants of
 **Dataset**
 
 The dataset is from UC Irvine Machine Learning Repository: https://archive.ics.uci.edu/dataset/186/wine+quality 
+
+Please see and run the jupyter notebook (one can follow the link to open it in Google Colab) for full report and code. 
+
+Thanks for reading!
